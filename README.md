@@ -17,6 +17,9 @@
 2. Yang L, Zhang R Y, Li L, et al. Simam: A simple, parameter-free attention module for convolutional neural networks[C]//International conference on machine learning. PMLR, 2021: 11863-11874.
 3. Hu J, Shen L, Sun G. Squeeze-and-excitation networks[J]. arXiv preprint arXiv:1709.01507, 2017, 7.
 
+## 数据集来源
+https://challenge.isic-archive.com/data/
+
 ## 目录结构描述
 ```
 ConvNeXt
